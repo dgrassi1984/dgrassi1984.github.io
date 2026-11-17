@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><!-- sparkle-sign-warning:
+IMPORTANT: This file was signed by Sparkle. Any modifications to this file requires re-signing this file with generate_appcast or sign_update! The signed signature will be embedded at the end of this file.
+--><rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+  <channel>
+    <title>SHAFT</title>
+    <item>
+      <title>SHAFT 0.63.1</title>
+      <pubDate>Tue, 17 Nov 2026 08:12:21 +0000</pubDate>
+      <sparkle:version>1399</sparkle:version>
+      <sparkle:shortVersionString>0.63.1</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<p><a href="https://github.com/dgrassi1984/shaft/releases/tag/v0.63.1">What changed</a></p>]]></description>
+      <enclosure url="https://dgrassi1984.github.io/shaft-app/SHAFT-0.63.1.dmg" length="10948766" type="application/octet-stream" sparkle:edSignature="F4Y5BmJ0crCNdFJO8iaSDk2LoKBOcvDReaKbGzauZ6yNJOgKdT3/g/gL6ohWjNqfER0J+raHrd8K50M5tbtEAg=="></enclosure>
+    </item>
+  </channel>
+</rss><!-- sparkle-signatures:
+edSignature: SBSS9x2cv+Ujlj2ovA9rIw0hKRYhBJY0EJqwG6bayQaeb9MCEnMRPVcyQTxFJBhtLXpEC+1zdOSjJeeWT5KEDQ==
+length: 1128
+-->
