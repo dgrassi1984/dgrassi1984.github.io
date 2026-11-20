@@ -4,16 +4,16 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
   <channel>
     <title>SHAFT</title>
     <item>
-      <title>SHAFT 0.65.2</title>
-      <pubDate>Fri, 20 Nov 2026 13:02:45 +0000</pubDate>
-      <sparkle:version>1416</sparkle:version>
-      <sparkle:shortVersionString>0.65.2</sparkle:shortVersionString>
+      <title>SHAFT 0.66.0</title>
+      <pubDate>Fri, 20 Nov 2026 15:01:48 +0000</pubDate>
+      <sparkle:version>1428</sparkle:version>
+      <sparkle:shortVersionString>0.66.0</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
-      <description><![CDATA[<p><a href="https://github.com/dgrassi1984/shaft/releases/tag/v0.65.2">What changed</a></p>]]></description>
-      <enclosure url="https://dgrassi1984.github.io/shaft-app/SHAFT-0.65.2.dmg" length="10977909" type="application/octet-stream" sparkle:edSignature="Wpxta+FiL/OL0AN6MD0Go0SwEw6pAm+d9x9FsCTun3mn2KSQiGebV0TQGVHj9LBOdBO3/128EhYjYRMl+eTYDw=="></enclosure>
+      <description><![CDATA[<p><a href="https://github.com/dgrassi1984/shaft/releases/tag/v0.66.0">What changed</a></p>]]></description>
+      <enclosure url="https://dgrassi1984.github.io/shaft-app/SHAFT-0.66.0.dmg" length="10977899" type="application/octet-stream" sparkle:edSignature="H/2gz0n4Gw2gpp8IKkZy0mwkTf51VMHjKUz+RAYEyw1ITFLIsUERIf+7DQ7pYSeFThzY619qmdDk6CupTsuMBg=="></enclosure>
     </item>
   </channel>
 </rss><!-- sparkle-signatures:
-edSignature: ydI8+3gCXCmY7qFxUIKqe19xE4qySjDy2AeVCA6udcoseh+rghALkAbH3Wg4hIQuO++RZBBuqZTZpzXMwKwjDQ==
+edSignature: 7zXjaiu1LKg6HlKDiklZIATe7L5AjkCsvBSmgDZ8jSPLD/43H+4w/ftH6+GiabFRKKOSll3+KWNtmpJtyUqvDQ==
 length: 1128
 -->
