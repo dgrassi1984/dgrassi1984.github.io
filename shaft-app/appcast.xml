@@ -4,16 +4,16 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
   <channel>
     <title>SHAFT</title>
     <item>
-      <title>SHAFT 0.73.2</title>
-      <pubDate>Wed, 25 Nov 2026 16:33:31 +0000</pubDate>
-      <sparkle:version>1515</sparkle:version>
-      <sparkle:shortVersionString>0.73.2</sparkle:shortVersionString>
+      <title>SHAFT 0.75.0</title>
+      <pubDate>Wed, 25 Nov 2026 17:24:10 +0000</pubDate>
+      <sparkle:version>1528</sparkle:version>
+      <sparkle:shortVersionString>0.75.0</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
-      <description><![CDATA[<ul><li>Mac setup, Install: on a Mac whose user is not an administrator, a Command Line Tools install that cannot start stops at once and says an administrator must install them, instead of waiting 30 minutes; while the system dialog is open it says an administrator&apos;s name and password are needed.</li></ul><p><a href="https://github.com/dgrassi1984/shaft/releases/tag/v0.73.2">Full release notes</a></p>]]></description>
-      <enclosure url="https://dgrassi1984.github.io/shaft-app/SHAFT-0.73.2.dmg" length="11802791" type="application/octet-stream" sparkle:edSignature="9Rb+G1FkiRWGr+O3eC7EZ7Bs0zqPYsk6xVuy+OWn7GqI70qbspxwseFjybixgZW3YP3OFo5BbBW6Yuuw5NfPCQ=="></enclosure>
+      <description><![CDATA[<ul><li>Meetings on iPhone and iPad: record a meeting from the Meetings screen (the microphone; it keeps recording with the screen locked). A phone call or Siri leaves a marked gap and the recording resumes.</li><li>The recording is sent to your SHAFT server when you stop, or the next time you open the app if it could not be sent.</li><li>iPhone and iPad have the same Meetings screens as the Mac: transcript, naming voices, account, Copy Reference.</li><li>Meeting recording, voice mode and read aloud no longer compete for the microphone.</li></ul><p><a href="https://github.com/dgrassi1984/shaft/releases/tag/v0.75.0">Full release notes</a></p>]]></description>
+      <enclosure url="https://dgrassi1984.github.io/shaft-app/SHAFT-0.75.0.dmg" length="11830193" type="application/octet-stream" sparkle:edSignature="2ApQzdJSpmTHeiB6QRi0BOMQK/cujTmdAcwvJGCzNOxN3dAhQgCIe+WY9GfYg48DqdDqspFkovdaCXoEoPRfBw=="></enclosure>
     </item>
   </channel>
 </rss><!-- sparkle-signatures:
-edSignature: qZMbXFOLn0F/5BG5RpohXx0eSGu/P8nGeJffC1cfGoXfHl9GJW9gMAJBc5nWVBB2G2SEw/mu5bl8517nYZ2BCQ==
-length: 1447
+edSignature: Nt6+nX9tBmvSkBl36upA7ZSayKGfoUPYdd71UVymasNmzz1+0zwkWopapHKexkZZLnOWrqseCLky8Pc0d3zgBw==
+length: 1686
 -->
