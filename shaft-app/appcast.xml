@@ -4,16 +4,16 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
   <channel>
     <title>SHAFT</title>
     <item>
-      <title>SHAFT 0.73.0</title>
-      <pubDate>Wed, 25 Nov 2026 15:23:32 +0000</pubDate>
-      <sparkle:version>1509</sparkle:version>
-      <sparkle:shortVersionString>0.73.0</sparkle:shortVersionString>
+      <title>SHAFT 0.73.2</title>
+      <pubDate>Wed, 25 Nov 2026 16:33:31 +0000</pubDate>
+      <sparkle:version>1515</sparkle:version>
+      <sparkle:shortVersionString>0.73.2</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
-      <description><![CDATA[<ul><li>Meetings window: choose the account a meeting belongs to and its title, so the instances you granted can read it.</li><li>Copy Reference: copies a line to paste into a chat that points the instance at that meeting.</li><li>Settings → Access: a Meetings row per Google account to let an instance read that account&apos;s meetings.</li><li>With a single Google account, new recordings are filed under it automatically.</li><li>Filing a meeting that is already transcribed sends its note to the instances watching meetings.</li></ul><p><a href="https://github.com/dgrassi1984/shaft/releases/tag/v0.73.0">Full release notes</a></p>]]></description>
-      <enclosure url="https://dgrassi1984.github.io/shaft-app/SHAFT-0.73.0.dmg" length="11774064" type="application/octet-stream" sparkle:edSignature="Z8g6rtOsULql/sj1SpYiwGuHnYsBLkqbJRfagxkeqHqs877F0oweEAcOOkCbpP2oZ+CrThMfPF0BpbPrqPVLAQ=="></enclosure>
+      <description><![CDATA[<ul><li>Mac setup, Install: on a Mac whose user is not an administrator, a Command Line Tools install that cannot start stops at once and says an administrator must install them, instead of waiting 30 minutes; while the system dialog is open it says an administrator&apos;s name and password are needed.</li></ul><p><a href="https://github.com/dgrassi1984/shaft/releases/tag/v0.73.2">Full release notes</a></p>]]></description>
+      <enclosure url="https://dgrassi1984.github.io/shaft-app/SHAFT-0.73.2.dmg" length="11802791" type="application/octet-stream" sparkle:edSignature="9Rb+G1FkiRWGr+O3eC7EZ7Bs0zqPYsk6xVuy+OWn7GqI70qbspxwseFjybixgZW3YP3OFo5BbBW6Yuuw5NfPCQ=="></enclosure>
     </item>
   </channel>
 </rss><!-- sparkle-signatures:
-edSignature: AjYYZXFSCo5ZGfu8iW6R9xaE+FsxNZYDycJKARAFsvfyqhs2b/sfJHAxJW85izsrs/ymHC/HceJywwsPbHzgBQ==
-length: 1674
+edSignature: qZMbXFOLn0F/5BG5RpohXx0eSGu/P8nGeJffC1cfGoXfHl9GJW9gMAJBc5nWVBB2G2SEw/mu5bl8517nYZ2BCQ==
+length: 1447
 -->
