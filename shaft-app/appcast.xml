@@ -4,16 +4,16 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
   <channel>
     <title>SHAFT</title>
     <item>
-      <title>SHAFT 0.75.0</title>
-      <pubDate>Wed, 25 Nov 2026 17:24:10 +0000</pubDate>
-      <sparkle:version>1528</sparkle:version>
-      <sparkle:shortVersionString>0.75.0</sparkle:shortVersionString>
+      <title>SHAFT 0.76.0</title>
+      <pubDate>Wed, 25 Nov 2026 21:09:27 +0000</pubDate>
+      <sparkle:version>1543</sparkle:version>
+      <sparkle:shortVersionString>0.76.0</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
-      <description><![CDATA[<ul><li>Meetings on iPhone and iPad: record a meeting from the Meetings screen (the microphone; it keeps recording with the screen locked). A phone call or Siri leaves a marked gap and the recording resumes.</li><li>The recording is sent to your SHAFT server when you stop, or the next time you open the app if it could not be sent.</li><li>iPhone and iPad have the same Meetings screens as the Mac: transcript, naming voices, account, Copy Reference.</li><li>Meeting recording, voice mode and read aloud no longer compete for the microphone.</li></ul><p><a href="https://github.com/dgrassi1984/shaft/releases/tag/v0.75.0">Full release notes</a></p>]]></description>
-      <enclosure url="https://dgrassi1984.github.io/shaft-app/SHAFT-0.75.0.dmg" length="11830193" type="application/octet-stream" sparkle:edSignature="2ApQzdJSpmTHeiB6QRi0BOMQK/cujTmdAcwvJGCzNOxN3dAhQgCIe+WY9GfYg48DqdDqspFkovdaCXoEoPRfBw=="></enclosure>
+      <description><![CDATA[<p>Added</p><ul><li>shaft review: one line per week for the instance&apos;s unprompted offers (messages sent during judged self-origin cycles): replied by quote, other link (reply, thumb or comment), no reply, open (#14).</li></ul><p>Fixed</p><ul><li>Quote-replies typed in a conversation now count as replies to the message they quote; they were never read, so they showed as no_link (#14).</li><li>Tailscale is found in ~/Applications too, after /Applications: api, migrate (local and remote) and the app&apos;s phone setup (#39).</li></ul><p><a href="https://github.com/dgrassi1984/shaft/releases/tag/v0.76.0">Full release notes</a></p>]]></description>
+      <enclosure url="https://dgrassi1984.github.io/shaft-app/SHAFT-0.76.0.dmg" length="11832743" type="application/octet-stream" sparkle:edSignature="lYHg9nNCTSaMLjA2h9br9savPBnyUtrbu+fzqFNCOY1onh9MW1dTcMYGIadMjCUKvt8HJJIQ/t0O1YONeVYKBg=="></enclosure>
     </item>
   </channel>
 </rss><!-- sparkle-signatures:
-edSignature: Nt6+nX9tBmvSkBl36upA7ZSayKGfoUPYdd71UVymasNmzz1+0zwkWopapHKexkZZLnOWrqseCLky8Pc0d3zgBw==
-length: 1686
+edSignature: LXb+iNc2M3Xp/9lSxZB0j3AHiGbE0ohder/Bojo2Ve55gV1Q2c5UNHZj6UlZ3CA5wldnLvoNmfZrFb7nk+lmDQ==
+length: 1676
 -->
