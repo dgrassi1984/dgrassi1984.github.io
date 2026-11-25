@@ -4,16 +4,16 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
   <channel>
     <title>SHAFT</title>
     <item>
-      <title>SHAFT 0.68.0</title>
-      <pubDate>Wed, 25 Nov 2026 10:48:21 +0000</pubDate>
-      <sparkle:version>1461</sparkle:version>
-      <sparkle:shortVersionString>0.68.0</sparkle:shortVersionString>
+      <title>SHAFT 0.69.0</title>
+      <pubDate>Wed, 25 Nov 2026 13:23:24 +0000</pubDate>
+      <sparkle:version>1473</sparkle:version>
+      <sparkle:shortVersionString>0.69.0</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
-      <description><![CDATA[<p><a href="https://github.com/dgrassi1984/shaft/releases/tag/v0.68.0">What changed</a></p>]]></description>
-      <enclosure url="https://dgrassi1984.github.io/shaft-app/SHAFT-0.68.0.dmg" length="11020770" type="application/octet-stream" sparkle:edSignature="5Z8CcWEngd0C23R82pvR33mN1JH0xA0QMZnXQMbkSsPO4dNM2I5QDRS6wxFmZHaZhXGxHxh3kV6uyfl7dbsyCg=="></enclosure>
+      <description><![CDATA[<ul><li>Settings → Server keys now shows on a Mac paired with its own server over the tailnet (it was hidden unless paired at 127.0.0.1). Needs the server&apos;s loopback path on (SHAFT_WEB_LOCAL).</li><li>The Mac app&apos;s update window shows these notes directly, not only a link.</li><li>Closing an empty thread no longer asks to end a conversation.</li><li>The promises and corrections gauges count from the supervisor&apos;s own copy of the ledgers, so a row the instance later edits or removes still counts.</li></ul><p><a href="https://github.com/dgrassi1984/shaft/releases/tag/v0.69.0">Full release notes</a></p>]]></description>
+      <enclosure url="https://dgrassi1984.github.io/shaft-app/SHAFT-0.69.0.dmg" length="11058477" type="application/octet-stream" sparkle:edSignature="JmqICjJ33fAoDqmXONBmaW0t/lryt6+fbQQr7mixRxQdGIwc1s68jgkjli2kANTlzaIPCTgjYAS5VNw1UL6qDQ=="></enclosure>
     </item>
   </channel>
 </rss><!-- sparkle-signatures:
-edSignature: YrDW9CL/+qq1+X+0ZOPIt5oqpfYhoqcjsSnBd4MfUrZ6zAavGrg9pTjNnrq8mcTjOL5Y/FbtisUgVFyIcVt4Cg==
-length: 1128
+edSignature: u57hBazLDJJm7mQVSYEbiYl9r4bxF/kYaCvjLNSHdCDfRQSSVihWqrsU6T/+S3ya8zXQ6/H4Bw+U0ekaRlvmBw==
+length: 1660
 -->
