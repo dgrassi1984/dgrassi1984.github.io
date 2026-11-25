@@ -4,16 +4,16 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
   <channel>
     <title>SHAFT</title>
     <item>
-      <title>SHAFT 0.69.1</title>
-      <pubDate>Wed, 25 Nov 2026 14:21:14 +0000</pubDate>
-      <sparkle:version>1480</sparkle:version>
-      <sparkle:shortVersionString>0.69.1</sparkle:shortVersionString>
+      <title>SHAFT 0.70.0</title>
+      <pubDate>Wed, 25 Nov 2026 14:23:52 +0000</pubDate>
+      <sparkle:version>1495</sparkle:version>
+      <sparkle:shortVersionString>0.70.0</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
-      <description><![CDATA[<p>Web chat (#16, PR #27): a clock set back no longer reorders a thread or makes its</p><p>follow-up refused; Retry after a failed follow-up sends the late message once; a</p><p>refused (409) interjection is answered next and never taken as heard.</p><p>Patch: fixes only. Gate: bin/shaft gate budget WITHIN BUDGET on 505b091a (tree of</p><p>4a664935 differs only in docs/codemap). Template: c82b2cc6 (unchanged). Deploy: not</p><p>done.</p><p><a href="https://github.com/dgrassi1984/shaft/releases/tag/v0.69.1">Full release notes</a></p>]]></description>
-      <enclosure url="https://dgrassi1984.github.io/shaft-app/SHAFT-0.69.1.dmg" length="11058465" type="application/octet-stream" sparkle:edSignature="REHAJRsjY16ElZ4nDGHpXsGO0U/YBcKNlvgFjiMhyt16cwgwq0XIgL3S/OrUji7KmDH347IAXmeGPksmAtKKCQ=="></enclosure>
+      <description><![CDATA[<ul><li>Meetings: record a meeting from the Mac menu bar (Meeting → Record Online Meeting, ⇧⌘R). Online records your microphone and the call&apos;s sound; in person, the microphone. The recording goes only to your SHAFT server.</li><li>The server transcribes each meeting after it ends (Italian and English) and separates who spoke; Meeting → Show Meetings (⌥⌘M) shows the transcript.</li><li>Name a voice once in the Meetings window and later meetings recognise it.</li><li>Instances you grant can search and read meeting transcripts, marked as the participants&apos; words, and suggest a speaker&apos;s name for you to confirm.</li><li>First time on the server: set up the transcription service (docs/meetings.md) and turn it on with shaft listen on.</li><li>Web chat edge cases fixed, and removed mechanisms&apos; files are cleared.</li></ul><p><a href="https://github.com/dgrassi1984/shaft/releases/tag/v0.70.0">Full release notes</a></p>]]></description>
+      <enclosure url="https://dgrassi1984.github.io/shaft-app/SHAFT-0.70.0.dmg" length="11701421" type="application/octet-stream" sparkle:edSignature="alXIopyj6T3PYDAwc5A80kzPROPAiSKYOeA5ITPKt5+ANFAkiPnaSPwcbUCnoDxWvQYeYfHsL7Urqh7USy9BBQ=="></enclosure>
     </item>
   </channel>
 </rss><!-- sparkle-signatures:
-edSignature: Myd2aZplf2Ic1JlUApzwbxTGLcmz+5ybkOYjX4fM60cOv1PxHIBT+pcrk2opwmXbFrnBU4yk4HMC2Vrwl1etAw==
-length: 1575
+edSignature: rYVfzVV9/29Z3ynMvayCOThwdMt0GhNbJMtuK0Lh75fibA73h4QTJmNRNUPkxC3t0X457ZNqng8JCtYMrtQrBg==
+length: 1991
 -->
