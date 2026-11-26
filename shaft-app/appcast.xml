@@ -4,16 +4,16 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
   <channel>
     <title>SHAFT</title>
     <item>
-      <title>SHAFT 0.81.2</title>
-      <pubDate>Thu, 26 Nov 2026 14:39:45 +0000</pubDate>
-      <sparkle:version>1599</sparkle:version>
-      <sparkle:shortVersionString>0.81.2</sparkle:shortVersionString>
+      <title>SHAFT 0.82.0</title>
+      <pubDate>Thu, 26 Nov 2026 21:30:03 +0000</pubDate>
+      <sparkle:version>1608</sparkle:version>
+      <sparkle:shortVersionString>0.82.0</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
-      <description><![CDATA[<p>Apps: a long chat no longer opens blank until scrolled (the lazy feed of v0.80.0 landed past its last row on an estimated height); it now lands on its last message by id, on Mac, iPhone and iPad.</p><p><a href="https://github.com/dgrassi1984/shaft/releases/tag/v0.81.2">Full release notes</a></p>]]></description>
-      <enclosure url="https://dgrassi1984.github.io/shaft-app/SHAFT-0.81.2.dmg" length="11906297" type="application/octet-stream" sparkle:edSignature="cCGZ2EQKVU/D519fIDbsY3N35Nf6BFYirqoQ3AXMQEI9wcH3VKX1ueXkiZ58WgHpEEKAJE82LdiSAhHVmFp3Cg=="></enclosure>
+      <description><![CDATA[<p>Shortcuts, both ways: an instance runs the macOS Shortcuts you grant it on the server Mac (shortcut_list, shortcut_run; shaft shortcuts &lt;n&gt; grant|revoke|off, the Access page, the Mac app&apos;s instance settings), by identifier, never in a trial replay; and the iPhone, iPad and Mac apps add Shortcuts actions Send to SHAFT instance and Open SHAFT instance chat.</p><p>The MCP server names the instances that accept notes when Claude connects.</p><p><a href="https://github.com/dgrassi1984/shaft/releases/tag/v0.82.0">Full release notes</a></p>]]></description>
+      <enclosure url="https://dgrassi1984.github.io/shaft-app/SHAFT-0.82.0.dmg" length="11971251" type="application/octet-stream" sparkle:edSignature="TOfSZUdwg9C7alwrZza+wvFQDYD6OyWMudRFnnozWYb2DM4Gg4bU/BD/squUJAKDN7yqRryHvAhz1I1SnxnrCw=="></enclosure>
     </item>
   </channel>
 </rss><!-- sparkle-signatures:
-edSignature: nVMJ4Jstk3RKrX2030b30r9/NkXkURPP4md+/RMvPATNsBFedg6ihzVNaFEzUmtZm0DbCtTKEDsTpm1g2V9UCQ==
-length: 1336
+edSignature: 7EWqX7GTmHekdxEntvgGypMhfs0kPyb8jZmhCEhAHPEELvagLudBG9BTHr3nd57cij/aZFPsoxQmO3PNDObaBg==
+length: 1590
 -->
