@@ -4,16 +4,16 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
   <channel>
     <title>SHAFT</title>
     <item>
-      <title>SHAFT 0.79.1</title>
-      <pubDate>Thu, 26 Nov 2026 08:59:15 +0000</pubDate>
-      <sparkle:version>1569</sparkle:version>
-      <sparkle:shortVersionString>0.79.1</sparkle:shortVersionString>
+      <title>SHAFT 0.80.0</title>
+      <pubDate>Thu, 26 Nov 2026 10:53:54 +0000</pubDate>
+      <sparkle:version>1588</sparkle:version>
+      <sparkle:shortVersionString>0.80.0</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
-      <description><![CDATA[<p>Fixed</p><ul><li>Mac setup, Google step: the Desktop app client card says to click Download JSON in Google&apos;s &quot;OAuth client created&quot; window before closing it (Google shows the secret only there), and to delete and recreate the client if it was already closed.</li></ul><p><a href="https://github.com/dgrassi1984/shaft/releases/tag/v0.79.1">Full release notes</a></p>]]></description>
-      <enclosure url="https://dgrassi1984.github.io/shaft-app/SHAFT-0.79.1.dmg" length="11861920" type="application/octet-stream" sparkle:edSignature="QVGYR3UZlT5CGqowEpR7egF5TttY+x/BMAf0TuONs5gMUbkzz3TOmurg1Ys+MQfPsNd0x9vDUZOhVZWrj3bGCw=="></enclosure>
+      <description><![CDATA[<p>Added</p><ul><li>Notes from Claude: `shaft mcp serve` is a local MCP server that Claude Desktop and Claude Code start; its `shaft_send` tool leaves a note (and up to 10 files) in an instance&apos;s inbox, read at its next wake. Opt-in per instance (`shaft claude-notes &lt;name&gt; on`, the web Access page, the apps&apos; instance settings); secrets are scrubbed. (#62)</li><li>The apps log every main-thread stall of 100 ms or more (subsystem SHAFT, category Hitches), naming the transition under way. (#61)</li></ul><p>Changed</p><ul><li>The apps&apos; chat screen builds only the messages on screen: a chat switch held the main thread 650–690 ms with 80 long turns, now about 160 ms; scrolling a long chat went from 28–34 to 62–75 fps; a streaming reply no longer stalls the app (Mac; the feed is shared with iPhone and iPad). (#61)</li><li>Meeting transcripts: online recordings are mixed and transcribed in chunks of up to 28 s with the previous text, the speakers&apos; names and `SHAFT_LISTEN_VOCABULARY` as context; words go to speakers by diarisation and channel loudness. Fewer invented outros, lost greetings and misheard terms. (#63)</li></ul><p>Fixed</p><ul><li>A Mac dev run (SHAFT_DEV_DIR) no longer reaches the operator&apos;s real meeting recordings folder. (#61)</li></ul><p><a href="https://github.com/dgrassi1984/shaft/releases/tag/v0.80.0">Full release notes</a></p>]]></description>
+      <enclosure url="https://dgrassi1984.github.io/shaft-app/SHAFT-0.80.0.dmg" length="11887107" type="application/octet-stream" sparkle:edSignature="MwweNmxaI5dj64p6TTw5fYGJKjFdoZTaKwS6oMoy+/NcI8XU/hctQhTVb8KfLsfcOegCdH0J04IRoFU8LMlTCQ=="></enclosure>
     </item>
   </channel>
 </rss><!-- sparkle-signatures:
-edSignature: 4JW+v+tR57NKEovMDQ/sO40ZnG1AhcTF15DDugBnu1mgQNReJSJAUiHLqSSOn4WIIfKQ/ySrbSVxBVFO5s0UAw==
-length: 1420
+edSignature: wacZVjtR3gP+au2xynwfNPvAekSo40a7wJpcYYELEb0wYK6t3+f0p2AnG0ElTjW/lv1w2EKlKJ7bMK+Jd+sgAQ==
+length: 2434
 -->
