@@ -4,16 +4,16 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
   <channel>
     <title>SHAFT</title>
     <item>
-      <title>SHAFT 0.79.0</title>
-      <pubDate>Thu, 26 Nov 2026 08:39:05 +0000</pubDate>
-      <sparkle:version>1567</sparkle:version>
-      <sparkle:shortVersionString>0.79.0</sparkle:shortVersionString>
+      <title>SHAFT 0.79.1</title>
+      <pubDate>Thu, 26 Nov 2026 08:59:15 +0000</pubDate>
+      <sparkle:version>1569</sparkle:version>
+      <sparkle:shortVersionString>0.79.1</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
-      <description><![CDATA[<p>Added</p><ul><li>Mac: choose the recording microphone for meetings (Meeting → Microphone): System Default or any connected input, kept across launches. A chosen microphone that is not connected at start falls back to the default and says so.</li><li>Mac: a Meetings button in the chat header, beside Cycles, opens the Meetings window (as Show Meetings, ⌥⌘M). Every header button has a tooltip.</li></ul><p>Fixed</p><ul><li>Mac: the menu bar showed Meeting twice; there is one Meeting menu.</li><li>bin/shaft runs the app-installed Python 3.12 instead of the first python3 on PATH (Apple&apos;s 3.9 crashed the supervisor from a Terminal), and says which interpreter it found when none fits.</li><li>Google setup: the Chat app step says to turn off interactive features, so Save needs no HTTP endpoint URL.</li></ul><p><a href="https://github.com/dgrassi1984/shaft/releases/tag/v0.79.0">Full release notes</a></p>]]></description>
-      <enclosure url="https://dgrassi1984.github.io/shaft-app/SHAFT-0.79.0.dmg" length="11861549" type="application/octet-stream" sparkle:edSignature="Vh1vqwHYoditOElnGmiWLuJN4N6Op7W7s8HHd2gABE4IPW35/LTox1R6sd/b1WfXpgsA2UcnmMdgN2+spCvSAA=="></enclosure>
+      <description><![CDATA[<p>Fixed</p><ul><li>Mac setup, Google step: the Desktop app client card says to click Download JSON in Google&apos;s &quot;OAuth client created&quot; window before closing it (Google shows the secret only there), and to delete and recreate the client if it was already closed.</li></ul><p><a href="https://github.com/dgrassi1984/shaft/releases/tag/v0.79.1">Full release notes</a></p>]]></description>
+      <enclosure url="https://dgrassi1984.github.io/shaft-app/SHAFT-0.79.1.dmg" length="11861920" type="application/octet-stream" sparkle:edSignature="QVGYR3UZlT5CGqowEpR7egF5TttY+x/BMAf0TuONs5gMUbkzz3TOmurg1Ys+MQfPsNd0x9vDUZOhVZWrj3bGCw=="></enclosure>
     </item>
   </channel>
 </rss><!-- sparkle-signatures:
-edSignature: jVdlkQdxCWLT4bL/ZW27D5tAhUDsiQXfkTM+Ze3bKJymSAvVP4ustFKy/iN8qkQhjQJV4BG+HHtLAEUMHxn4AA==
-length: 1958
+edSignature: 4JW+v+tR57NKEovMDQ/sO40ZnG1AhcTF15DDugBnu1mgQNReJSJAUiHLqSSOn4WIIfKQ/ySrbSVxBVFO5s0UAw==
+length: 1420
 -->
