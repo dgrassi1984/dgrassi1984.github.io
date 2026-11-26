@@ -4,16 +4,16 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
   <channel>
     <title>SHAFT</title>
     <item>
-      <title>SHAFT 0.81.1</title>
-      <pubDate>Thu, 26 Nov 2026 12:23:24 +0000</pubDate>
-      <sparkle:version>1595</sparkle:version>
-      <sparkle:shortVersionString>0.81.1</sparkle:shortVersionString>
+      <title>SHAFT 0.81.2</title>
+      <pubDate>Thu, 26 Nov 2026 14:39:45 +0000</pubDate>
+      <sparkle:version>1599</sparkle:version>
+      <sparkle:shortVersionString>0.81.2</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
-      <description><![CDATA[<p>iPhone meetings: the Record/upload panel sits above the list instead of covering it; recordings are IMA4 in CAF so a recording cut short when iOS ends the app is recovered and sent.</p><p><a href="https://github.com/dgrassi1984/shaft/releases/tag/v0.81.1">Full release notes</a></p>]]></description>
-      <enclosure url="https://dgrassi1984.github.io/shaft-app/SHAFT-0.81.1.dmg" length="11905837" type="application/octet-stream" sparkle:edSignature="ESbpZCzaM7eImJJijOLlK8oGRnAE7RUr24BPCa02IIDGov89rwmwlNWF945TWaWhHQVnkdhPTF/Ssb9brxBZDA=="></enclosure>
+      <description><![CDATA[<p>Apps: a long chat no longer opens blank until scrolled (the lazy feed of v0.80.0 landed past its last row on an estimated height); it now lands on its last message by id, on Mac, iPhone and iPad.</p><p><a href="https://github.com/dgrassi1984/shaft/releases/tag/v0.81.2">Full release notes</a></p>]]></description>
+      <enclosure url="https://dgrassi1984.github.io/shaft-app/SHAFT-0.81.2.dmg" length="11906297" type="application/octet-stream" sparkle:edSignature="cCGZ2EQKVU/D519fIDbsY3N35Nf6BFYirqoQ3AXMQEI9wcH3VKX1ueXkiZ58WgHpEEKAJE82LdiSAhHVmFp3Cg=="></enclosure>
     </item>
   </channel>
 </rss><!-- sparkle-signatures:
-edSignature: jBg7Bcc1sLqktDnrpgRLF1n7Ecmzud2EYDApgbTHFVxEuQInKM9tJwDpyp5w/x04GI/OQNhPJDmThi+tXYweCA==
-length: 1322
+edSignature: nVMJ4Jstk3RKrX2030b30r9/NkXkURPP4md+/RMvPATNsBFedg6ihzVNaFEzUmtZm0DbCtTKEDsTpm1g2V9UCQ==
+length: 1336
 -->
