@@ -4,16 +4,16 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
   <channel>
     <title>SHAFT</title>
     <item>
-      <title>SHAFT 0.84.0</title>
-      <pubDate>Fri, 27 Nov 2026 10:59:01 +0000</pubDate>
-      <sparkle:version>1626</sparkle:version>
-      <sparkle:shortVersionString>0.84.0</sparkle:shortVersionString>
+      <title>SHAFT 0.85.0</title>
+      <pubDate>Fri, 27 Nov 2026 13:04:30 +0000</pubDate>
+      <sparkle:version>1636</sparkle:version>
+      <sparkle:shortVersionString>0.85.0</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
-      <description><![CDATA[<p>Meetings reach the instances and the operator, and no recording is lost or hidden without saying so (#73).</p><ul><li>Watches (meetings, mail, calendar, Google Chat) in each instance&apos;s settings in the apps.</li><li>A push when a meeting is ready (who spoke, voices to name), failed (why) or has a speaker proposal; the tap opens it.</li><li>Meetings shows instances&apos; speaker proposals (Confirm/Reject) and lets a named speaker be renamed or forgotten.</li><li>Mac recordings are CAF and survive a quit or crash; a recording cut short is recovered at launch, an unreadable one is kept and never sent; no idle sleep while recording; sleep shows as a gap with its length; warnings while recording (silent microphone, device restart) and after it; Stop Sending; Record during an upload.</li><li>iPhone: a phone call is waited out (up to 3 h); a recording that stops early is a notification and a chat banner; gaps say how long nothing was recorded. Stop is on the banner and the meeting&apos;s toolbar.</li><li>Server: capture problems stay on a transcript that still worked; a reprocess keeps the last transcript readable; new unfiled meetings are filed from their calendar event&apos;s account.</li></ul><p><a href="https://github.com/dgrassi1984/shaft/releases/tag/v0.84.0">Full release notes</a></p>]]></description>
-      <enclosure url="https://dgrassi1984.github.io/shaft-app/SHAFT-0.84.0.dmg" length="12179312" type="application/octet-stream" sparkle:edSignature="ENBnLfjD2wfDMaqZ0HwT1IL3DmW9icOWilmRDotFeQfx8xq3yNU7SKKAwRWIiSRg+B4sqjHF9TleuWEL7U4vAg=="></enclosure>
+      <description><![CDATA[<p>Meetings transcribe more faithfully, record from Siri and the Lock Screen, and notifications can be allowed from</p><p>Settings (#74).</p><ul><li>Per-meeting Words and People (vocabulary and speaker count, then reprocess); the meeting&apos;s own words survive Whisper&apos;s prompt cut; unsure chunks re-read in the other language; invitees suggested as names.</li><li>Siri, Shortcuts and Control Center start and stop a recording; iPhone Live Activity with elapsed time and Stop.</li><li>Microphone meters; recording time in the Mac menu bar; voice mode and meetings never together on the Mac; damaged iPhone recordings shareable or deletable; failed meetings say why.</li><li>Settings -&gt; Notifications: Allow Notifications, Open Notification Settings, or Register Again.</li></ul><p><a href="https://github.com/dgrassi1984/shaft/releases/tag/v0.85.0">Full release notes</a></p>]]></description>
+      <enclosure url="https://dgrassi1984.github.io/shaft-app/SHAFT-0.85.0.dmg" length="12264441" type="application/octet-stream" sparkle:edSignature="IYOyAoB/wLnQCmPLaoGSsGoaAbHaPUnfIyv9We2Dnoj7GSOfCNhDr4SDG4xs0R5dt8aY4mlFhz0bXhhV9B3KCQ=="></enclosure>
     </item>
   </channel>
 </rss><!-- sparkle-signatures:
-edSignature: /ZHU8a/daBGmrGj442pjDOMDu3t2ahxascHpy4z1JMNFoHZ7VXE7xnw434TGHyjZ9rzzXYiErHBEc3hQLSZTDw==
-length: 2349
+edSignature: CYSb7aKF148VnCIlgIsz0zEuVerussENCPiRC1kd1dCiriQClEVZWB+K0m15ia7HpZJnbdn50Pq1nF+IX2sDCw==
+length: 1922
 -->
