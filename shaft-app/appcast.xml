@@ -4,16 +4,16 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
   <channel>
     <title>SHAFT</title>
     <item>
-      <title>SHAFT 0.85.0</title>
-      <pubDate>Fri, 27 Nov 2026 13:04:30 +0000</pubDate>
-      <sparkle:version>1636</sparkle:version>
-      <sparkle:shortVersionString>0.85.0</sparkle:shortVersionString>
+      <title>SHAFT 0.86.0</title>
+      <pubDate>Fri, 27 Nov 2026 14:37:50 +0000</pubDate>
+      <sparkle:version>1643</sparkle:version>
+      <sparkle:shortVersionString>0.86.0</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
-      <description><![CDATA[<p>Meetings transcribe more faithfully, record from Siri and the Lock Screen, and notifications can be allowed from</p><p>Settings (#74).</p><ul><li>Per-meeting Words and People (vocabulary and speaker count, then reprocess); the meeting&apos;s own words survive Whisper&apos;s prompt cut; unsure chunks re-read in the other language; invitees suggested as names.</li><li>Siri, Shortcuts and Control Center start and stop a recording; iPhone Live Activity with elapsed time and Stop.</li><li>Microphone meters; recording time in the Mac menu bar; voice mode and meetings never together on the Mac; damaged iPhone recordings shareable or deletable; failed meetings say why.</li><li>Settings -&gt; Notifications: Allow Notifications, Open Notification Settings, or Register Again.</li></ul><p><a href="https://github.com/dgrassi1984/shaft/releases/tag/v0.85.0">Full release notes</a></p>]]></description>
-      <enclosure url="https://dgrassi1984.github.io/shaft-app/SHAFT-0.85.0.dmg" length="12264441" type="application/octet-stream" sparkle:edSignature="IYOyAoB/wLnQCmPLaoGSsGoaAbHaPUnfIyv9We2Dnoj7GSOfCNhDr4SDG4xs0R5dt8aY4mlFhz0bXhhV9B3KCQ=="></enclosure>
+      <description><![CDATA[<p>Instances can see unfiled meetings, and an unfiled meeting gets an account suggested from its recognised people (#77).</p><ul><li>Meetings (unfiled) grant: shaft meetings grant &lt;instance&gt; --unfiled, the web Access page and the apps.</li><li>Suggestion from where the meeting&apos;s people&apos;s other meetings are filed (two-thirds majority, at least two meetings; the operator&apos;s side never counts); never filed automatically. File under &lt;account&gt;? card in the apps, the Meeting ready push and the instance&apos;s page header; shaft meetings file &lt;id&gt; --suggested.</li></ul><p><a href="https://github.com/dgrassi1984/shaft/releases/tag/v0.86.0">Full release notes</a></p>]]></description>
+      <enclosure url="https://dgrassi1984.github.io/shaft-app/SHAFT-0.86.0.dmg" length="12301078" type="application/octet-stream" sparkle:edSignature="sTPVtMIAvajUpZCdq7e0yaKTfx3ISMHTn7AIDvKcubBSpf9HM6MbDhlZrV18g6aezRv1+bmxq1SU5oMqXmUdAA=="></enclosure>
     </item>
   </channel>
 </rss><!-- sparkle-signatures:
-edSignature: CYSb7aKF148VnCIlgIsz0zEuVerussENCPiRC1kd1dCiriQClEVZWB+K0m15ia7HpZJnbdn50Pq1nF+IX2sDCw==
-length: 1922
+edSignature: E+2l3NbjfRo68YTk2iClG+eJQTsflZLfiyGlPK3ezfUzp0Uk57P0/ljkZf4+PiKJ2fslXz5hAqGdI1b+dueHDA==
+length: 1735
 -->
