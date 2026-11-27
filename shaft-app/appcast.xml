@@ -4,16 +4,16 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
   <channel>
     <title>SHAFT</title>
     <item>
-      <title>SHAFT 0.82.1</title>
-      <pubDate>Fri, 27 Nov 2026 08:30:47 +0000</pubDate>
-      <sparkle:version>1610</sparkle:version>
-      <sparkle:shortVersionString>0.82.1</sparkle:shortVersionString>
+      <title>SHAFT 0.82.2</title>
+      <pubDate>Fri, 27 Nov 2026 09:47:11 +0000</pubDate>
+      <sparkle:version>1613</sparkle:version>
+      <sparkle:shortVersionString>0.82.2</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
-      <description><![CDATA[<p>Mac meetings with AirPods in a call are recorded again: at 24 kHz the AAC bit rate asked for was above what the encoder offers, it then refused every write and the meeting became an empty file (moov atom not found). The bit rate now comes from the encoder&apos;s own list; the Mac app warns during the recording if audio stops being saved and reads the length back from the finished file; a failed meeting&apos;s card leads with what the recorder reported.</p><p><a href="https://github.com/dgrassi1984/shaft/releases/tag/v0.82.1">Full release notes</a></p>]]></description>
-      <enclosure url="https://dgrassi1984.github.io/shaft-app/SHAFT-0.82.1.dmg" length="11975412" type="application/octet-stream" sparkle:edSignature="pkTyKGveEWrKvB7xFNtvBLKb50aA1Uxooota6alUT+8VOc4xK68Bv1UMIXSU2PM/mMu4EDde7ynDCRGCIoX0Aw=="></enclosure>
+      <description><![CDATA[<p>Read aloud speaks with voice mode&apos;s voice (#71). The play button on a message</p><p>now reads it in the language voice mode uses with the instance and the voice</p><p>chosen for it, as voice mode does, instead of the voice of the language it</p><p>detected in the text or the system voice when the voices lookup was slow.</p><p>Patch: an app behaviour fix. Gate: shaft gate budget passed on bbd69453</p><p>(template f02e2174), shared part 231 s.</p><p><a href="https://github.com/dgrassi1984/shaft/releases/tag/v0.82.2">Full release notes</a></p>]]></description>
+      <enclosure url="https://dgrassi1984.github.io/shaft-app/SHAFT-0.82.2.dmg" length="11985674" type="application/octet-stream" sparkle:edSignature="xzg0ZBLjRiL93WfRPi9Z2J93huzuWkcQN/e9D+CLwQ4znrAJld8kHkC+xmRbJ6JjCnlirezQgeiOgbN/YIaECQ=="></enclosure>
     </item>
   </channel>
 </rss><!-- sparkle-signatures:
-edSignature: 42SkTl741oqdwA3iOHHaX/Ex6+RlYmUQfSoPMq4vCrAdeUHmX/NmtiCsjngwk2q8ZPq/XdddcTypTlXQXLZADg==
-length: 1597
+edSignature: mOcku0copqZR/kn/qlOCKdwRs/g+rTE8c5LIWCVs82iVoSiAmof6z6FeLDVTNfBB2Lv5uJSiYxJ9mdv2P1zLDw==
+length: 1591
 -->
