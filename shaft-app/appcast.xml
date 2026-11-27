@@ -4,16 +4,16 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
   <channel>
     <title>SHAFT</title>
     <item>
-      <title>SHAFT 0.83.0</title>
-      <pubDate>Fri, 27 Nov 2026 10:00:52 +0000</pubDate>
-      <sparkle:version>1619</sparkle:version>
-      <sparkle:shortVersionString>0.83.0</sparkle:shortVersionString>
+      <title>SHAFT 0.84.0</title>
+      <pubDate>Fri, 27 Nov 2026 10:59:01 +0000</pubDate>
+      <sparkle:version>1626</sparkle:version>
+      <sparkle:shortVersionString>0.84.0</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
-      <description><![CDATA[<p>Clear conversation (#72): in the Mac, iPhone and iPad apps and the web, ⋯ → Clear</p><p>conversation… makes Main or a thread start fresh where it is. The instance&apos;s</p><p>conversation so far is ended and written up, the next reply no longer reads it,</p><p>and the feed starts at a &quot;Cleared&quot; line, with the earlier messages under &quot;Show</p><p>the N earlier messages&quot;. Nothing is deleted. It replaces the web&apos;s old &quot;Clear this</p><p>thread&quot;, which only did what Close thread does.</p><p>Minor: a new user-visible capability. Gate (shaft gate budget) within budget on</p><p>ea2c2661 with template f02e2174.</p><p><a href="https://github.com/dgrassi1984/shaft/releases/tag/v0.83.0">Full release notes</a></p>]]></description>
-      <enclosure url="https://dgrassi1984.github.io/shaft-app/SHAFT-0.83.0.dmg" length="12008756" type="application/octet-stream" sparkle:edSignature="M7XY7a1/Alet0kGPTQyZDTcDeV2kJZbw4686VI9MBBBr8J4P9oRRisjxxl8AoVQUpECo55Em2JFwgGs82EnqDw=="></enclosure>
+      <description><![CDATA[<p>Meetings reach the instances and the operator, and no recording is lost or hidden without saying so (#73).</p><ul><li>Watches (meetings, mail, calendar, Google Chat) in each instance&apos;s settings in the apps.</li><li>A push when a meeting is ready (who spoke, voices to name), failed (why) or has a speaker proposal; the tap opens it.</li><li>Meetings shows instances&apos; speaker proposals (Confirm/Reject) and lets a named speaker be renamed or forgotten.</li><li>Mac recordings are CAF and survive a quit or crash; a recording cut short is recovered at launch, an unreadable one is kept and never sent; no idle sleep while recording; sleep shows as a gap with its length; warnings while recording (silent microphone, device restart) and after it; Stop Sending; Record during an upload.</li><li>iPhone: a phone call is waited out (up to 3 h); a recording that stops early is a notification and a chat banner; gaps say how long nothing was recorded. Stop is on the banner and the meeting&apos;s toolbar.</li><li>Server: capture problems stay on a transcript that still worked; a reprocess keeps the last transcript readable; new unfiled meetings are filed from their calendar event&apos;s account.</li></ul><p><a href="https://github.com/dgrassi1984/shaft/releases/tag/v0.84.0">Full release notes</a></p>]]></description>
+      <enclosure url="https://dgrassi1984.github.io/shaft-app/SHAFT-0.84.0.dmg" length="12179312" type="application/octet-stream" sparkle:edSignature="ENBnLfjD2wfDMaqZ0HwT1IL3DmW9icOWilmRDotFeQfx8xq3yNU7SKKAwRWIiSRg+B4sqjHF9TleuWEL7U4vAg=="></enclosure>
     </item>
   </channel>
 </rss><!-- sparkle-signatures:
-edSignature: O5SQMRQKZQW8neooEhPpjhbkDQvfqfq0BUEI1klljdCnJWxtKnMCCij7wuxI4tp+EndWQltbg1xfKzd0vMWwCA==
-length: 1790
+edSignature: /ZHU8a/daBGmrGj442pjDOMDu3t2ahxascHpy4z1JMNFoHZ7VXE7xnw434TGHyjZ9rzzXYiErHBEc3hQLSZTDw==
+length: 2349
 -->
