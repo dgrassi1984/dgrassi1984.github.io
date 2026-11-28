@@ -4,16 +4,16 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
   <channel>
     <title>SHAFT</title>
     <item>
-      <title>SHAFT 0.87.0</title>
-      <pubDate>Sat, 28 Nov 2026 17:10:07 +0000</pubDate>
-      <sparkle:version>1654</sparkle:version>
-      <sparkle:shortVersionString>0.87.0</sparkle:shortVersionString>
+      <title>SHAFT 0.88.0</title>
+      <pubDate>Sat, 28 Nov 2026 17:23:50 +0000</pubDate>
+      <sparkle:version>1661</sparkle:version>
+      <sparkle:shortVersionString>0.88.0</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
-      <description><![CDATA[<p>SHAFT on a Mac without admin rights: Listen and migration (#58, #59); voice stream tests and gate output (#55).</p><ul><li>shaft listen on sets Listen up itself: .venv-listen with the app&apos;s uv and Python, pinned engines and an ffmpeg of its own (imageio-ffmpeg); one ffmpeg resolver for the worker and speaker clips. A recording uploaded where Listen is not set up (no environment, job or HF_TOKEN) is kept, marked failed with the reason and pushed; listen on queues it again.</li><li>shaft migrate moves an app install between non-admin Macs: the .runtime Python and uv, local-only api/web restored with --local, no Tailscale requirement then, sleep setting optional; Listen stopped and restarted, .venv-listen rebuilt.</li><li>Voice stream tests wait on the reply&apos;s push; the gate keeps every failure&apos;s assertion ahead of the output tail.</li></ul><p><a href="https://github.com/dgrassi1984/shaft/releases/tag/v0.87.0">Full release notes</a></p>]]></description>
-      <enclosure url="https://dgrassi1984.github.io/shaft-app/SHAFT-0.87.0.dmg" length="12301078" type="application/octet-stream" sparkle:edSignature="NrKzEjnavkfbbcX9Gzg6mUP2Fq9T0EkHqY1beuNgB/dHAMEhmqHPpx3e6EDlp6/BBliaosk26cnDFCUWdZ8KCw=="></enclosure>
+      <description><![CDATA[<p>Artifacts: interactive pages an instance makes and keeps up to date (#82, template #83).</p><ul><li>An instance writes notes/artifacts/&lt;slug&gt;/ (index.html, optional data.json as window.SHAFT_DATA, .js/.css beside it); a scheduled plugin job can keep data.json current without a cycle (publishes).</li><li>Web UI: instance → Artifacts, the page in a sandboxed frame (opaque origin, nothing loaded from the network), reloaded only when its version moves; problems listed above it.</li><li>Apps (Mac, iPhone, iPad): side panel → Artifacts, a web view with no storage that blocks every load; links open in the browser after confirmation.</li><li>Template: skills/making-artifacts.md teaches instances the format.</li></ul><p><a href="https://github.com/dgrassi1984/shaft/releases/tag/v0.88.0">Full release notes</a></p>]]></description>
+      <enclosure url="https://dgrassi1984.github.io/shaft-app/SHAFT-0.88.0.dmg" length="12441099" type="application/octet-stream" sparkle:edSignature="7v/KAxo7llxX2VzHRG+Ex1AS7tZiqHoTWxdnLiN9HJTAKT73jELEZYst7hmlg9S3ws9slVTSXa0yKeChFiGRBw=="></enclosure>
     </item>
   </channel>
 </rss><!-- sparkle-signatures:
-edSignature: gRxhx7/+BMB6RiJhD0TeHqOBCFaAP8BV9G194AnCCVwTLZolpT8nyfi4xtNhPDQ8us1wNfSuUF9+Z+ZupRuKBA==
-length: 2002
+edSignature: V3PBhttM1WDNUn+WEh8N5WkO5IEosKShEn6W874Igtxjcu6ktkIW6wwjeRZeG/t2kzMtNB8d0fu4Nv7CG/bYCg==
+length: 1865
 -->
