@@ -4,16 +4,16 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
   <channel>
     <title>SHAFT</title>
     <item>
-      <title>SHAFT 0.86.0</title>
-      <pubDate>Fri, 27 Nov 2026 14:37:50 +0000</pubDate>
-      <sparkle:version>1643</sparkle:version>
-      <sparkle:shortVersionString>0.86.0</sparkle:shortVersionString>
+      <title>SHAFT 0.87.0</title>
+      <pubDate>Sat, 28 Nov 2026 17:10:07 +0000</pubDate>
+      <sparkle:version>1654</sparkle:version>
+      <sparkle:shortVersionString>0.87.0</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
-      <description><![CDATA[<p>Instances can see unfiled meetings, and an unfiled meeting gets an account suggested from its recognised people (#77).</p><ul><li>Meetings (unfiled) grant: shaft meetings grant &lt;instance&gt; --unfiled, the web Access page and the apps.</li><li>Suggestion from where the meeting&apos;s people&apos;s other meetings are filed (two-thirds majority, at least two meetings; the operator&apos;s side never counts); never filed automatically. File under &lt;account&gt;? card in the apps, the Meeting ready push and the instance&apos;s page header; shaft meetings file &lt;id&gt; --suggested.</li></ul><p><a href="https://github.com/dgrassi1984/shaft/releases/tag/v0.86.0">Full release notes</a></p>]]></description>
-      <enclosure url="https://dgrassi1984.github.io/shaft-app/SHAFT-0.86.0.dmg" length="12301078" type="application/octet-stream" sparkle:edSignature="sTPVtMIAvajUpZCdq7e0yaKTfx3ISMHTn7AIDvKcubBSpf9HM6MbDhlZrV18g6aezRv1+bmxq1SU5oMqXmUdAA=="></enclosure>
+      <description><![CDATA[<p>SHAFT on a Mac without admin rights: Listen and migration (#58, #59); voice stream tests and gate output (#55).</p><ul><li>shaft listen on sets Listen up itself: .venv-listen with the app&apos;s uv and Python, pinned engines and an ffmpeg of its own (imageio-ffmpeg); one ffmpeg resolver for the worker and speaker clips. A recording uploaded where Listen is not set up (no environment, job or HF_TOKEN) is kept, marked failed with the reason and pushed; listen on queues it again.</li><li>shaft migrate moves an app install between non-admin Macs: the .runtime Python and uv, local-only api/web restored with --local, no Tailscale requirement then, sleep setting optional; Listen stopped and restarted, .venv-listen rebuilt.</li><li>Voice stream tests wait on the reply&apos;s push; the gate keeps every failure&apos;s assertion ahead of the output tail.</li></ul><p><a href="https://github.com/dgrassi1984/shaft/releases/tag/v0.87.0">Full release notes</a></p>]]></description>
+      <enclosure url="https://dgrassi1984.github.io/shaft-app/SHAFT-0.87.0.dmg" length="12301078" type="application/octet-stream" sparkle:edSignature="NrKzEjnavkfbbcX9Gzg6mUP2Fq9T0EkHqY1beuNgB/dHAMEhmqHPpx3e6EDlp6/BBliaosk26cnDFCUWdZ8KCw=="></enclosure>
     </item>
   </channel>
 </rss><!-- sparkle-signatures:
-edSignature: E+2l3NbjfRo68YTk2iClG+eJQTsflZLfiyGlPK3ezfUzp0Uk57P0/ljkZf4+PiKJ2fslXz5hAqGdI1b+dueHDA==
-length: 1735
+edSignature: gRxhx7/+BMB6RiJhD0TeHqOBCFaAP8BV9G194AnCCVwTLZolpT8nyfi4xtNhPDQ8us1wNfSuUF9+Z+ZupRuKBA==
+length: 2002
 -->
